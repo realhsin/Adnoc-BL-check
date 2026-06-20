@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shipment Comparison Engine
 
 A Python project for extracting shipment data from DOCX/PDF documents, normalizing fields, and comparing shipment records.
@@ -78,3 +79,4 @@ Then start the Streamlit app again.
 - The current extractor uses regex-based parsing for document fields.
 - The project is designed to be extended to handle more shipping line formats and document layouts.
 - The Streamlit app displays extracted values, comparison results, and allows report download.
+
