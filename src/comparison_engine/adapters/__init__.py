@@ -1,0 +1,1 @@
+# adapters package for document loading
